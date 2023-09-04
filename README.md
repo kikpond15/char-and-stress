@@ -20,7 +20,7 @@ https://github.com/kikpond15/char-and-stress/assets/29980030/348e5753-3444-4119-
 ## credit title
 
 Shota Mochizuki (product designer)  
-Moe Shinohara (programmer)
+Moe Shinohara (programmer)  
 Kouta Kikuchi (engineer)
 
 ## license
