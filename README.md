@@ -9,7 +9,7 @@ It is a chair for plants.
 https://github.com/kikpond15/char-and-stress/assets/29980030/348e5753-3444-4119-bfbd-59453e97318e
 
 
-## System
+## system
 - Arduino
 - Servomotor
 - solenoid
@@ -17,3 +17,11 @@ https://github.com/kikpond15/char-and-stress/assets/29980030/348e5753-3444-4119-
 
 ![circuit diagram](img/circuit_diagram.jpg)
 
+## credit title
+
+Shota Mochizuki (product designer)  
+Moe Shinohara (programmer)
+Kouta Kikuchi (engineer)
+
+## license
+MIT license
